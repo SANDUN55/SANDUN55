@@ -13,9 +13,16 @@
 <h1 align="center">Hi 👋, I'm Sandun Chinthaka</h1>
 <h3 align="center">💻 Passionate about Software Engineering, Frontend & Backend Development, and AI/ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SANDUN55&label=Profile%20views&color=0e75b6&style=flat" alt="SANDUN55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SANDUN55" alt="SANDUN55" /></a> </p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SANDUN55" alt="SANDUN55" />
+  </a>
+</p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SANDUN55&label=Profile%20views&color=0e75b6&style=flat" alt="SANDUN55" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -66,13 +73,14 @@
 
 <br clear="both">
 
-<!-- ✅ Snake contribution animation -->
+
+###
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SANDUN55&show_icons=true&locale=en" alt="SANDUN55" /></p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANDUN55/SANDUN55/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SANDUN55/SANDUN55/output/snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/SANDUN55/SANDUN55/output/snake.svg">
 </picture>
-
-###
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SANDUN55&show_icons=true&locale=en" alt="SANDUN55" /></p>
