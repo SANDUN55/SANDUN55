@@ -4,39 +4,35 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
 
 <h1 align="center">Hi 👋, I'm Sandun Chinthaka</h1>
-<h3 align="center">💻 Passionate about Software Engineering, Frontend & Backend Development, and AI/ML</h3>
-
-
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SANDUN55" alt="SANDUN55" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/sandun-chinthaka-48b173315" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-</p>
+  <a href="https://www.youtube.com/@sandunchinthaka6988" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://[www.facebook.com/YOUR_FACEBOOK](https://www.facebook.com/profile.php?id=100073220575982)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+</div>
 
+<h3 align="center">💻 Passionate about Software Engineering, Frontend & Backend Development, and AI/ML</h3><br><br>
+
+
+- 🎓 Undergraduate in **Electronics and Computer Science**  <br><br>
+- 🌱 I’m currently learning **Spring Boot, React, and Machine Learning applications**  <br><br>
+- 🤝 Love working on **collaborative projects and exploring new technologies**  <br><br>
+- 📱 Interested in **Full-Stack Development, Mobile Apps, and Federated Learning**  <br><br>
+- 📫 How to reach me **sandunchinthakab55@gmail.com**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SANDUN55&label=Profile%20views&color=0e75b6&style=flat" alt="SANDUN55" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 Undergraduate in **Electronics and Computer Science**  
-- 🌱 I’m currently learning **Spring Boot, React, and Machine Learning applications**  
-- 🤝 Love working on **collaborative projects and exploring new technologies**  
-- 📱 Interested in **Full-Stack Development, Mobile Apps, and Federated Learning**  
-- 📫 How to reach me **sandunchinthakab55@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -69,7 +65,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANDUN55&show_icons=true&locale=en&layout=compact" alt="SANDUN55" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANDUN55&show_icons=true&locale=en&layout=compact" alt="SANDUN55" />
 
 <br clear="both">
 
